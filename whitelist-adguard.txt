@@ -1,0 +1,25 @@
+# Pudin S Ilham
+# https://t.me/pudin_ira
+# https://instagram.com/pudin.ira
+# https://pdn.my.id
+# updated : 04 Agustus 2021 
+# List Whitelist DNS Adguard Home
+
+ads.google.com
+analytics.google.com
+appcbt.smaia1.local
+appsoal.smaia1.local
+cbt.smaia1.local
+cp.uswah.id
+fliphtml5.com
+mikrotik.co.id
+web.telegram.org
+web.whatsapp.com
+www.appcbt.smaia1.local
+www.appsoal.smaia1.local
+www.cbt.smaia1.local
+www.mikrotik.co.id
+zfrmz.com
+zoho.com
+zohopublic.com
+zoom.us
