@@ -56,4 +56,6 @@ fast.com
 nperf.com
 speedtest.net
 speedtest.cbn.id
+kampus.stiabanten.ac.id
+stiabanten.ac.id
 
