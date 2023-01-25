@@ -1,61 +1,61 @@
-# Pudin S Ilham
-# https://t.me/pudin_ira
-# https://instagram.com/pudin.ira
-# https://pdn.my.id
-# updated : 04 Agustus 2021 
-# List Whitelist DNS Adguard Home
+! Pudin S Ilham
+! https://t.me/pudin_ira
+! https://instagram.com/pudin.ira
+! https://pdn.my.id
+! updated : 04 Agustus 2021 
+! List Whitelist DNS Adguard Home
 
-#GOOGLE
-google.com
-ads.google.com
-analytics.google.com
-drive.google.com
-mail.google.com
-docs.google.com
-forms.gle
-youtube.com
-m.youtube.com
-www.youtube.com
-googlevideo.com
-www.googlevideo.com
-youtu.be
-www.youtu.be
-ytimg.com
-www.ytimg.com
-m.ytimg.com
+! GOOGLE
+||google.com^
+||ads.google.com^
+||analytics.google.com^
+||drive.google.com^
+||mail.google.com^
+||docs.google.com^
+||forms.gle^
+||youtube.com^
+||m.youtube.com^
+||www.youtube.com^
+||googlevideo.com^
+||www.googlevideo.com^
+||youtu.be^
+||www.youtu.be^
+||ytimg.com^
+||www.ytimg.com^
+||m.ytimg.com^
 
-#CHAT
-telegram.com
-web.telegram.org
-whatsapp.com
-web.whatsapp.com
+! CHAT
+||telegram.com^
+||web.telegram.org^
+||whatsapp.com^
+||web.whatsapp.com^
 
-#LOCAL AL AZHAR
-appcbt.smaia1.local
-appsoal.smaia1.local
-cbt.smaia1.local
-cp.uswah.id
-www.appcbt.smaia1.local
-www.appsoal.smaia1.local
-www.cbt.smaia1.local
-al-azhar.or.id
-al-azhar.sch.id
-al-azhar.id
+! LOCAL AL AZHAR
+||appcbt.smaia1.local^
+||appsoal.smaia1.local^
+||cbt.smaia1.local^
+||cp.uswah.id^
+||www.appcbt.smaia1.local^
+||www.appsoal.smaia1.local^
+||www.cbt.smaia1.local^
+||al-azhar.or.id^
+||al-azhar.sch.id^
+||al-azhar.id^
 
-#UMUM
-www.mikrotik.co.id
-zfrmz.com
-zoho.com
-zohopublic.com
-zoom.us
-fliphtml5.com
-mikrotik.co.id
+! UMUM
+||www.mikrotik.co.id^
+||zfrmz.com^
+||zoho.com^
+||zohopublic.com^
+||zoom.us^
+||fliphtml5.com^
+||mikrotik.co.id^
 
-#bandwidthTest
-fast.com
-nperf.com
-speedtest.net
-speedtest.cbn.id
-kampus.stiabanten.ac.id
-stiabanten.ac.id
+! bandwidthTest
+||fast.com^
+||nperf.com^
+||speedtest.net^
+||speedtest.cbn.id^
+||kampus.stiabanten.ac.id^
+||stiabanten.ac.id^
 
