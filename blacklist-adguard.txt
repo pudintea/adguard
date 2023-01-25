@@ -1,0 +1,14 @@
+! Pudin S Ilham
+! https://t.me/pudin_ira
+! https://instagram.com/pudin.ira
+! https://pdn.my.id
+! updated : 04 Agustus 2021 
+! List Whitelist DNS Adguard Home
+
+! GOOGLE
+||roblox.com^
+||pubgmobile.com^
+||mobilelegends.com^
+||update.microsoft.com^
+||redir.update.msft.com.trafficmanager.net^
+||au.download.windowsupdate.com^
