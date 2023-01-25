@@ -50,6 +50,7 @@
 ||zoom.us^
 ||fliphtml5.com^
 ||mikrotik.co.id^
+||github.com^
 
 ! bandwidthTest
 ||fast.com^
