@@ -3,7 +3,7 @@
 ! https://instagram.com/pudin.ira
 ! https://pdn.my.id
 ! updated : 04 Agustus 2021 
-! List Whitelist DNS Adguard Home
+! List Blacklist DNS Adguard Home
 
 ! BLOCK 1
 ||roblox.com^
