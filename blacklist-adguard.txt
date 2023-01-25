@@ -5,7 +5,7 @@
 ! updated : 04 Agustus 2021 
 ! List Whitelist DNS Adguard Home
 
-! GOOGLE
+! BLOCK 1
 ||roblox.com^
 ||pubgmobile.com^
 ||mobilelegends.com^
