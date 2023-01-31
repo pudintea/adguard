@@ -51,6 +51,9 @@
 ||fliphtml5.com^
 ||mikrotik.co.id^
 ||github.com^
+||kemdikbud.go.id^
+||data.kemdikbud.go.id^
+||nisn.data.kemdikbud.go.id^
 
 ! bandwidthTest
 ||fast.com^
