@@ -54,6 +54,7 @@
 ||kemdikbud.go.id^
 ||data.kemdikbud.go.id^
 ||nisn.data.kemdikbud.go.id^
+||disquscdn.com^
 
 ! bandwidthTest
 ||fast.com^
