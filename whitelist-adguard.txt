@@ -49,6 +49,7 @@
 ||zohopublic.com^
 ||zoom.us^
 ||fliphtml5.com^
+||online.fliphtml5.com^
 ||mikrotik.co.id^
 ||github.com^
 ||kemdikbud.go.id^
